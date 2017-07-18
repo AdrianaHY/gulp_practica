@@ -1,0 +1,1 @@
+function ಠ_ಠ272(){console.log("guau")}ಠ_ಠ272();
